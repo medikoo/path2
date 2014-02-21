@@ -28,7 +28,7 @@ In your project path:
 
 ##### Browser
 
-You can easily bundle _path2_ for browser with [modules-webmake](https://github.com/medikoo/modules-webmake)
+You can easily bundle _path2_ for browser with any CJS bundler, e.g. [modules-webmake](https://github.com/medikoo/modules-webmake)
 
 ## Tests [![Build Status](https://travis-ci.org/medikoo/path2.png)](https://travis-ci.org/medikoo/path2)
 
